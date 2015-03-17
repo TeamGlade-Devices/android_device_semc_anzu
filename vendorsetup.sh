@@ -12,4 +12,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-add_lunch_combo cm_anzu-eng
+add_lunch_combo glade_anzu-eng
+add_lunch_combo glade_anzu-userdebug
